@@ -2,7 +2,7 @@
 
 ## Purpose
 
-The goal of this program is to take in two dates and retrieve the number of Sundays that fell on the first of the month within that range.
+The goal of this program is to take in two dates and retrieve the number of Sundays that fell on the first of the month within that range. That's a lot of Monster Truck Rallies! "You'll pay for the whole seat, BUT YOU'LL ONLY NEED THE EDGE!!!!"  Sorry, just reminiscing about those radio ads.
 
 
 ## Getting Started
